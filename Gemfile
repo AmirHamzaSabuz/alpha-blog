@@ -17,6 +17,8 @@ gem 'rails', '~> 5.1.7'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 
+gem 'jquery-rails'
+
 # Use SCSS for stylesheets
 
 gem 'bootstrap-sass', '~> 3.4.1'
